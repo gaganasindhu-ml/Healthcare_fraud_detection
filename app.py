@@ -193,9 +193,9 @@ def make_gauge(prob):
             "bgcolor": "#132030",
             "borderwidth": 0,
             "steps": [
-                {"range": [0, 35], "color": "#00c89615"},
-                {"range": [35, 60], "color": "#ffd16615"},
-                {"range": [60, 100], "color": "#ff4d6d15"},
+                {"range": [0, 35], "color": "rgba(0,200,150,0.08)"},
+                {"range": [35, 60], "color": "rgba(255,209,102,0.08)"},
+                {"range": [60, 100], "color": "rgba(255,77,109,0.08)"},
             ],
             "threshold": {
                 "line": {"color": color, "width": 3},
