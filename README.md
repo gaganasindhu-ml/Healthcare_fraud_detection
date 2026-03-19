@@ -39,7 +39,7 @@ No black box. Every prediction is explainable.
 
 | FraudShield loads the trained XGBoost model and shows model stats upfront — 94.2% accuracy, 17 features, binary classification task. The sidebar takes structured claim input. After clicking Analyze, the gauge shows fraud probability, the Feature Risk Profile shows which inputs drove the score, and the Claim Summary table gives a clean structured view. |
 
-**Live App:** *(Add your Streamlit Cloud URL here after deploying)*
+**Live App:** *(https://healthcarefrauddetection-dmqypx4ed7ukcnqztjyair.streamlit.app/)
 
 ---
 
