@@ -56,7 +56,7 @@ No black box. Every prediction is explainable.
 
 ## 📊 Dataset
 
-**Source:** [Healthcare Provider Fraud Detection Analysis — Kaggle](https://www.kaggle.com/datasets/rohitrox/healthcare-provider-fraud-detection-analysis)
+**Source:** [Healthcare Provider Fraud Detection Analysis — Kaggle](kaggle.com/datasets/rohitrox/healthcare-provider-fraud-detection-analysis)
 
 The dataset contains real Medicare claims data across 4 files:
 
