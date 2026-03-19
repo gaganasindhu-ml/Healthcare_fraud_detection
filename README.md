@@ -41,6 +41,18 @@ No black box. Every prediction is explainable.
 
 **Live App:** *(https://healthcarefrauddetection-dmqypx4ed7ukcnqztjyair.streamlit.app/)
 
+### Home Screen — Model Loaded
+![FraudShield Home](https://github.com/gaganasindhu-ml/Healthcare_fraud_detection/blob/main/Screenshot/1.png?raw=true)
+### Claim Input Form
+![Claim Input](https://github.com/gaganasindhu-ml/Healthcare_fraud_detection/blob/main/Screenshot/2.png?raw=true)
+(https://github.com/gaganasindhu-ml/Healthcare_fraud_detection/blob/main/Screenshot/3.png?raw=true)
+(https://github.com/gaganasindhu-ml/Healthcare_fraud_detection/blob/main/Screenshot/4.png?raw=true)
+### Fraud Analysis Result
+![Analysis Result](https://github.com/gaganasindhu-ml/Healthcare_fraud_detection/blob/main/Screenshot/5.png?raw=true)
+
+### Claim summary
+![Feature Risk](https://github.com/gaganasindhu-ml/Healthcare_fraud_detection/blob/main/Screenshot/6.png?raw=true)
+```
 ---
 
 ## 📊 Dataset
