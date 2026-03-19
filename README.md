@@ -45,8 +45,7 @@ No black box. Every prediction is explainable.
 ![FraudShield Home](https://github.com/gaganasindhu-ml/Healthcare_fraud_detection/blob/main/Screenshot/1.png?raw=true)
 ### Claim Input Form
 ![Claim Input](https://github.com/gaganasindhu-ml/Healthcare_fraud_detection/blob/main/Screenshot/2.png?raw=true)
-(https://github.com/gaganasindhu-ml/Healthcare_fraud_detection/blob/main/Screenshot/3.png?raw=true)
-(https://github.com/gaganasindhu-ml/Healthcare_fraud_detection/blob/main/Screenshot/4.png?raw=true)
+
 ### Fraud Analysis Result
 ![Analysis Result](https://github.com/gaganasindhu-ml/Healthcare_fraud_detection/blob/main/Screenshot/5.png?raw=true)
 
